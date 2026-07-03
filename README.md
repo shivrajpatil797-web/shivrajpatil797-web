@@ -22,6 +22,11 @@
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ---
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivrajpatil797-web&show_icons=true&theme=tokyonight)
+
+---
 
 ## 📌 Current Projects
 
