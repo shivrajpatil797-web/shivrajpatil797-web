@@ -37,9 +37,9 @@
 
 ## 📌 Current Projects
 
-- Finance Dashboard
-- Social Media Analysis Dashboard
-- College Dashboard
+- 📊 [Finance Dashboard](https://github.com/shivrajpatil797-web/Finance-Dashboard)
+- 📱 [Social Media Analysis Dashboard](https://github.com/shivrajpatil797-web/Social-Media-Analysis-Dashboard)
+- 🎓 [College Dashboard](https://github.com/shivrajpatil797-web/College-Dashboard)
 
 
 ## 💻 Most Used Languages
