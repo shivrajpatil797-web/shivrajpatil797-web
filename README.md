@@ -35,11 +35,13 @@
 - College Dashboard
 
 ---
+## 💻 Most Used Languages
 
-## 📫 Connect With Me
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shivrajpatil797-web&layout=compact&theme=tokyonight)
 
-LinkedIn:
-https://linkedin.com/in/shivraj-patil-14a04438a
+---
+## 📫 Connect with Me
 
-Email:
-shivrajpatil797@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shivraj-patil-14a04438a)
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivrajpatil797@gmail.com)
