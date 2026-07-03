@@ -27,13 +27,13 @@
 
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
----
+
 ## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=shivrajpatil797-web&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
----
+
 
 ## 📌 Current Projects
 
@@ -41,13 +41,13 @@
 - Social Media Analysis Dashboard
 - College Dashboard
 
----
+
 ## 💻 Most Used Languages
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shivrajpatil797-web&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
----
+
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shivraj-patil-14a04438a)
