@@ -1,5 +1,11 @@
 # Hi 👋 I'm Shivraj Mansing Patil
 
+<p align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Aspiring+Data+Analyst;Power+BI+Developer;SQL+Developer;Python+Learner;Open+to+Work"/>
+
+</p>
+
 ## 🎓 About Me
 
 - 🎓 BCA Graduate
