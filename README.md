@@ -1,55 +1,113 @@
-# Hi 👋 I'm Shivraj Mansing Patil
+<div align="center">
 
-<p align="center">
+# Hi 👋, I'm Shivraj Mansing Patil
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Aspiring+Data+Analyst;Power+BI+Developer;SQL+Developer;Python+Learner;Open+to+Work"/>
+### 📊 Aspiring Data Analyst | Power BI | Tableau | SQL | Python
 
+<p>
+  <a href="https://www.linkedin.com/in/shivraj-patil-14a04438a">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="mailto:shivrajpatil797@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
-## 🎓 About Me
-
-- 🎓 BCA Graduate
-- 📊 Aspiring Data Analyst
-- 🌱 Currently learning Data Analytics
-- 💼 Open to Work
+</div>
 
 ---
 
-## 💻 Skills
+# 👨‍💻 About Me
 
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+🎓 BCA Graduate
 
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+📊 Aspiring Data Analyst passionate about transforming raw data into meaningful insights.
 
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+🌱 Currently learning Advanced Data Analytics and strengthening my SQL & Python skills.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+💼 Open to Internship and Full-Time Opportunities.
 
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+📍 Navi Mumbai, Maharashtra, India
 
+---
 
-## 📊 GitHub Stats
+# 🛠️ Skills
+
+<p>
+
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+
+</p>
+
+---
+
+# 📚 Currently Learning
+
+- Advanced SQL
+- Python for Data Analysis
+- Power BI Dashboard Design
+- Tableau Dashboard Development
+- Data Visualization
+- Data Cleaning
+
+---
+
+# 📂 Featured Projects
+
+🚧 Projects will be uploaded soon.
+
+Upcoming Projects:
+
+- 💰 Finance Dashboard
+- 📱 Social Media Analysis Dashboard
+- 🎓 College Dashboard
+- 📈 Electronics Sales Dashboard
+- 🐍 Python Data Analysis Projects
+- 🗄️ SQL Projects
+
+---
+
+# 📈 GitHub Statistics
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=shivrajpatil797-web&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
 
+---
 
-## 📌 Current Projects
+# 🎯 Career Objective
 
-- 📊 [Finance Dashboard](https://github.com/shivrajpatil797-web/Finance-Dashboard)
-- 📱 [Social Media Analysis Dashboard](https://github.com/shivrajpatil797-web/Social-Media-Analysis-Dashboard)
-- 🎓 [College Dashboard](https://github.com/shivrajpatil797-web/College-Dashboard)
+To start my career as a Data Analyst where I can apply my analytical, visualization, and problem-solving skills to create data-driven solutions and continuously grow as a professional.
 
+---
 
-## 💻 Most Used Languages
+# 📫 Connect With Me
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shivrajpatil797-web&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+📧 **Email**
 
-## 📫 Connect with Me
+shivrajpatil797@gmail.com
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shivraj-patil-14a04438a)
+💼 **LinkedIn**
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivrajpatil797@gmail.com)
+https://www.linkedin.com/in/shivraj-patil-14a04438a
+
+📍 **Location**
+
+Navi Mumbai, Maharashtra, India
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+</div>
