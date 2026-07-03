@@ -30,8 +30,9 @@
 ---
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivrajpatil797-web&show_icons=true&theme=tokyonight)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shivrajpatil797-web&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
 ---
 
 ## 📌 Current Projects
@@ -43,8 +44,9 @@
 ---
 ## 💻 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shivrajpatil797-web&layout=compact&theme=tokyonight)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivrajpatil797-web&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 ---
 ## 📫 Connect with Me
 
