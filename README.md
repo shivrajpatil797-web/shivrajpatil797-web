@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi 👋 I'm Shivraj Mansing Patil
 
-<!--
-**shivrajpatil797-web/shivrajpatil797-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 About Me
 
-Here are some ideas to get you started:
+- 🎓 BCA Graduate
+- 📊 Aspiring Data Analyst
+- 🌱 Currently learning Data Analytics
+- 💼 Open to Work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💻 Skills
+
+- Power BI
+- Tableau
+- SQL
+- Python
+- Excel
+
+---
+
+## 📌 Current Projects
+
+- Finance Dashboard
+- Social Media Analysis Dashboard
+- College Dashboard
+
+---
+
+## 📫 Connect With Me
+
+LinkedIn:
+https://linkedin.com/in/shivraj-patil-14a04438a
+
+Email:
+shivrajpatil797@gmail.com
