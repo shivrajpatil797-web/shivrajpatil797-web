@@ -31,7 +31,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=shivrajpatil797-web&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=shivrajpatil797-web&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
 ---
 
@@ -45,7 +45,7 @@
 ## 💻 Most Used Languages
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivrajpatil797-web&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shivrajpatil797-web&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 ---
 ## 📫 Connect with Me
