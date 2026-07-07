@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi 👋, I'm Shivraj Mansing Patil
+# Hi , I'm Shivraj Mansing Patil
 
-### 📊 Aspiring Data Analyst | Power BI | Tableau | SQL | Python
+###  Aspiring Data Analyst | Power BI | Tableau | SQL | Python
 
 <p>
   <a href="https://www.linkedin.com/in/shivraj-patil-14a04438a">
@@ -18,17 +18,17 @@
 
 ---
 
-# 👨‍💻 About Me
+#  About Me
 
-🎓 BCA Graduate
+ BCA Graduate
 
-📊 Aspiring Data Analyst passionate about transforming raw data into meaningful insights.
+ Aspiring Data Analyst passionate about transforming raw data into meaningful insights.
 
-🌱 Currently learning Advanced Data Analytics and strengthening my SQL & Python skills.
+ Currently learning Advanced Data Analytics and strengthening my SQL & Python skills.
 
-💼 Open to Internship and Full-Time Opportunities.
+ Open to Internship and Full-Time Opportunities.
 
-📍 Navi Mumbai, Maharashtra, India
+ Navi Mumbai, Maharashtra, India
 
 ---
 
@@ -50,7 +50,7 @@
 
 ---
 
-# 📚 Currently Learning
+#  Currently Learning
 
 - Advanced SQL
 - Python for Data Analysis
@@ -61,22 +61,22 @@
 
 ---
 
-# 📂 Featured Projects
+#  Featured Projects
 
-🚧 Projects will be uploaded soon.
+ Projects will be uploaded soon.
 
 Upcoming Projects:
 
-- 💰 Finance Dashboard
-- 📱 Social Media Analysis Dashboard
-- 🎓 College Dashboard
-- 📈 Electronics Sales Dashboard
-- 🐍 Python Data Analysis Projects
-- 🗄️ SQL Projects
+-  Finance Dashboard
+-  Social Media Analysis Dashboard
+-  College Dashboard
+-  Electronics Sales Dashboard
+-  Python Data Analysis Projects
+-  SQL Projects
 
 ---
 
-# 📈 GitHub Statistics
+#  GitHub Statistics
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=shivrajpatil797-web&show_icons=true&theme=tokyonight&hide_border=true"/>
@@ -84,23 +84,23 @@ Upcoming Projects:
 
 ---
 
-# 🎯 Career Objective
+#  Career Objective
 
 To start my career as a Data Analyst where I can apply my analytical, visualization, and problem-solving skills to create data-driven solutions and continuously grow as a professional.
 
 ---
 
-# 📫 Connect With Me
+#  Connect With Me
 
-📧 **Email**
+ **Email**
 
 shivrajpatil797@gmail.com
 
-💼 **LinkedIn**
+ **LinkedIn**
 
 https://www.linkedin.com/in/shivraj-patil-14a04438a
 
-📍 **Location**
+ **Location**
 
 Navi Mumbai, Maharashtra, India
 
@@ -108,6 +108,6 @@ Navi Mumbai, Maharashtra, India
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+###  Thanks for visiting my profile!
 
 </div>
