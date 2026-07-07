@@ -32,7 +32,7 @@
 
 ---
 
-# 🛠️ Skills
+#  Skills
 
 <p>
 
